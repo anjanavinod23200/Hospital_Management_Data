@@ -61,7 +61,7 @@ TOOLS USED :
 ORIGINAL DATASET :
 Kaggle - Hospital Management Dataset
 
-Original Dataset Link : https://www.kaggle.com/datas ets/kanakbaghel/hospital-management-dataset?select=ap pointments.csv 
+Original Dataset Link : https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset?select=appointments.csv 
 
 PROJECT FILES :
 Excel Project - Hospital.xlsx
