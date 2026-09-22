@@ -19,7 +19,7 @@ DASHBOARD :
       The dashboard provides a visual summary of the hospital data using KPI cards, Charts, Pivot Tables and Slicers.
       The screenshot of the Excel Dashboard is attached separately as "Dashboard.png"
 
-<img width="2530" height="1062" alt="Dashboard" src="https://github.com/user-attachments/assets/2cd5a3e9-2ff7-46df-97f8-a480e13b5254" />
+<img width="2514" height="1037" alt="Dashboard" src="https://github.com/user-attachments/assets/b2067c2a-538d-49d7-b20d-29c1bd629d6d" />
 
 
 
