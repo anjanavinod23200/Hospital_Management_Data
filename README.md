@@ -64,6 +64,7 @@ Kaggle - Hospital Management Dataset
 Original Dataset Link : https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset?select=appointments.csv 
 
 PROJECT FILES :
-Excel Project - Hospital.xlsx
+Hospital Management Data.xlsx
+
 Dashboard.png
 
